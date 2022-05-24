@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap');
+
+body {
+    background-image: url(http://gseii.org/site/wp-content/uploads/2014/05/blue-gradient-wallpaper.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 15pt;
+}
+
+header {
+    color: aliceblue;
+    text-align: center;
+
+}
+
+section {
+    background: rgba(255, 255, 255, 0.096);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.603);
+}
+
+footer {
+    color: aliceblue;
+    text-align: center;
+
+}
