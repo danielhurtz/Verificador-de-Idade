@@ -65,7 +65,7 @@ function verificar() {
         }
 
         res.style.textAlign = 'center'; // Alinhar texto 'res'
-        res.innerHTML = `<br><strong>Detectamos ${genero} com ${idade} anos.</strong>`;
+        res.innerHTML = `<strong>Detectamos ${genero} com ${idade} anos.</strong>`;
         res.appendChild(img);
     }
 }
